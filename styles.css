@@ -1,0 +1,15 @@
+.container {
+    padding: 10px;
+    margin: auto;
+    margin-top: 150px;
+    background-color: whitesmoke;
+    width: fit-content;
+}
+.sub-container {
+    width: 300px;
+    display: inline-block;
+    text-align: center;
+}
+.sub-container h5 {
+    color: orangered;
+}
